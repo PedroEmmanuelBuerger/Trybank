@@ -17,9 +17,9 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ## Principais Aprendizados
 Os principais aprendizados incluem:
-criar sistema de login e logout
-criar sistema de validação baseado em certas regras de negocios.
-criar sistema baseado em depósito e saque.
+- criar sistema de login e logout
+- criar sistema de validação baseado em certas regras de negocios.
+- criar sistema baseado em depósito e saque.
 
 
 ## Conclusão
