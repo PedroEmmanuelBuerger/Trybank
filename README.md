@@ -11,9 +11,9 @@ Histórico de transações: registra todas as transações realizadas em uma con
 Tecnologias Utilizadas
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-Node.js
-C#
-Docker
+- Node.js
+- C#
+- Docker
 
 ## Principais Aprendizados
 Os principais aprendizados incluem:
