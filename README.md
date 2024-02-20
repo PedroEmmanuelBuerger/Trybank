@@ -4,20 +4,22 @@ Trybank é um projeto desenvolvido como parte do curso "Trybe" para simular um s
 ## Funcionalidades
 O projeto possui as seguintes funcionalidades:
 
-Criação de contas bancárias: é possível criar novas contas bancárias.
-Realização de transferências: permite transferir fundos entre contas bancárias.
-Consulta de saldo: possibilita verificar o saldo disponível em uma conta bancária.
-Histórico de transações: registra todas as transações realizadas em uma conta bancária.
-Tecnologias Utilizadas
+- Criação de contas bancárias: é possível criar novas contas bancárias.
+- Realização de transferências: permite transferir fundos entre contas bancárias.
+- Consulta de saldo: possibilita verificar o saldo disponível em uma conta bancária.
+- Histórico de transações: registra todas as transações realizadas em uma conta bancária.
+
+## Tecnologias Utilizadas
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 - Node.js
 - C#
 - Docker
+- POO
 
 ## Principais Aprendizados
 Os principais aprendizados incluem:
-- criar sistema de login e logout
+- criar sistema de login e logout utilizando o modelo MSC.
 - criar sistema de validação baseado em certas regras de negocios.
 - criar sistema baseado em depósito e saque.
 
